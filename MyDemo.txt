@@ -5,3 +5,5 @@ test
 java
 Spring
 Oracle
+AWS
+OCI
