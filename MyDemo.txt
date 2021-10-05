@@ -7,3 +7,9 @@ Spring
 Oracle
 AWS
 OCI
+
+Spring 
+Springboot
+
+Jnit 
+mockito
